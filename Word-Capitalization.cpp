@@ -17,7 +17,7 @@ int main()
     {
         n[0] = toupper(n[0]); // to upper is not mutative and a function and will return a value
         cout << n;
-    }
+    } 
     else
         cout << n;
     return 0;
